@@ -1,0 +1,38 @@
+# Pac Man Unblocked Online
+
+> Play free unblocked browser games online with no download. Fast-loading HTML5 games including action, racing, multiplayer, sports, puzzle, io games, and arcade classics.
+
+## Main Sections
+
+- Home: https://pac-man-online.github.io/
+- Popular Games: https://pac-man-online.github.io/popular/
+- All Games: https://pac-man-online.github.io/all-games/
+
+## Popular Game Types
+
+- IO Games
+- Racing Games
+- Multiplayer Games
+- Shooting Games
+- Sports Games
+- Puzzle Games
+- Arcade Games
+- Parkour Games
+
+## Featured Games
+
+- https://pac-man-online.github.io/class/subway-surfers/
+- https://pac-man-online.github.io/class/moto-x3m/
+- https://pac-man-online.github.io/class/ovo/
+- https://pac-man-online.github.io/class/drift-boss/
+- https://pac-man-online.github.io/class/smash-karts/
+- https://pac-man-online.github.io/class/run-3/
+- https://pac-man-online.github.io/class/tunnel-rush/
+- https://pac-man-online.github.io/class/temple-run-2/
+- https://pac-man-online.github.io/class/retro-bowl/
+- https://pac-man-online.github.io/class/house-of-hazards/
+
+## Policies
+
+- Privacy Policy: https://pac-man-online.github.io/privacy-policy/
+- Contact: https://pac-man-online.github.io/contact/
