@@ -10,11 +10,26 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
+<url>
+<loc>https://pac-man-online.github.io</loc>
+<lastmod>2026-06-19T10:04:53+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://pac-man-online.github.io/all-games/</loc>
+<lastmod>2026-06-19T10:04:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://pac-man-online.github.io/popular/</loc>
+<lastmod>2026-06-19T10:04:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
 <url>
 <loc>https://pac-man-online.github.io/class/codex-1/</loc>
 <lastmod>2026-06-19T10:04:53+00:00</lastmod>
-<priority>1.00</priority>
+<priority>0.80</priority>
 </url>
 <url>
 <loc>https://pac-man-online.github.io/class/codex-2/</loc>
